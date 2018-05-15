@@ -1,6 +1,3 @@
-main = "C:/Users/bingsi/Dropbox/MyWorkNew/2016_12_26_migraine_data_covariate_Modality_Selection_new_idea_2018_5_11_JASA" 
-setwd(main)
-
 #*******************************************
 # Install a few R packages needed in the code
 #*******************************************

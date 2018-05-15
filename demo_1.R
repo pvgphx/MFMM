@@ -1,6 +1,3 @@
-main = "C:/Users/bingsi/Dropbox/MyWorkNew/2016_12_26_migraine_data_covariate_Modality_Selection_new_idea_2018_5_11_JASA" 
-setwd(main)
-
 #***********************************************************
 # It takes hours to search through the space and 
 # find the optimal tuning parameters with minimal BIC. 
